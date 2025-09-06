@@ -1,0 +1,1 @@
+#Projeto com o intuito de aprender a usar o FastAPI.
