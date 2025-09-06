@@ -1,1 +1,1 @@
-#Projeto com o intuito de aprender a usar o FastAPI.
+Projeto pessoal para aprender mais sobre FastAPI e boas práticas de desenvolvimento de APIs.
